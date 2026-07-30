@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Sahil Jagadale
 
-<!--
-**sahiljagadale69/sahiljagadale69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Saraswati College of Engineering
 
-Here are some ideas to get you started:
+💻 Java | Spring Boot | Hibernate | MySQL | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Spring Boot
+- Hibernate
+- REST APIs
+- Microservices
+
+🚀 Interested In
+- Backend Development
+- Full Stack Development
+- Software Engineering
+
+📫 Email:
+sahiljagadale198@gmail.com
