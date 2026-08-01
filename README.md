@@ -1,26 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm Sahil Jagadale
+# 👋 Hi, I'm Sahil Jagadale
 
 ### 🚀 Java Backend & Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Backend+Developer;Spring+Boot+Developer;Hibernate+%7C+MySQL+%7C+REST+APIs;Full+Stack+Developer;Always+Learning+New+Technologies" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sahiljagadale69&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sahiljagadale69&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/sahiljagadale69?style=for-the-badge&logo=github)](https://github.com/sahiljagadale69)
+[![GitHub stars](https://img.shields.io/github/stars/sahiljagadale69?affiliations=OWNER&style=for-the-badge)](https://github.com/sahiljagadale69)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **Bachelor of Engineering (Computer Engineering)**
-
+🎓 **Bachelor of Engineering (Computer Engineering)**  
 🏫 Saraswati College of Engineering, Kharghar
 
-💻 Passionate about Java Backend Development, Spring Boot, and Full Stack Web Development.
+💻 Passionate about designing scalable backend applications using Java and modern web technologies.
 
 🌱 **Currently Learning**
 
@@ -30,41 +32,39 @@
 - Microservices
 - Docker
 
-🎯 **Career Interests**
+🎯 **Career Goal**
 
-- Java Backend Development
-- Full Stack Development
-- Software Engineering
+To become a Software Engineer who builds efficient, scalable, and real-world applications.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap" />
 </p>
 
-### Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
 </p>
 
-### Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,docker" />
@@ -76,95 +76,113 @@
 
 ## 🎓 Student Management System
 
-**Java • JDBC • MySQL**
+**Java | JDBC | MySQL | Eclipse**
 
 ✔ Layered Architecture (Model, DAO, Service)
 
 ✔ CRUD Operations
 
-✔ JDBC Connectivity
-
-✔ MySQL Database
+✔ JDBC Database Connectivity
 
 ✔ Object-Oriented Programming
 
----
+✔ Exception Handling
 
-## 🎭 FakeXpose
-
-**Python • TensorFlow • FastAPI • OpenCV**
-
-AI-powered Multimodal Deepfake Detection System capable of detecting manipulated videos and audio with high accuracy.
+🔗 *Repository:* *(Add your repository link here)*
 
 ---
 
-## 🌾 SIGRO
+## 🎭 FakeXpose – Multimodal Deepfake Detection System
 
-**React • Node.js • Python • YOLOv8**
+**Python | TensorFlow | FastAPI | OpenCV**
 
-AI-powered Smart Agriculture Assistant providing crop disease detection and intelligent farming insights.
+Developed an AI-powered multimodal deepfake detection system capable of identifying manipulated videos and audio using deep learning and ensemble models.
+
+🔗 *Repository:* *(Add your repository link here)*
+
+---
+
+## 🌱 SIGRO – AI-Powered Smart Agriculture Assistant
+
+**React | Node.js | Python | YOLOv8**
+
+Built an intelligent agriculture platform featuring plant disease detection, analytics, and AI-assisted farming recommendations.
+
+🔗 *Repository:* *(Add your repository link here)*
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahiljagadale69&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahiljagadale69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljagadale69&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljagadale69&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sahiljagadale69&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahiljagadale69&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Participations
 
-🥈 2nd Runner-Up at **Loop Hackathon** among **2500+ participating teams**
+🥈 **2nd Runner-Up** – Loop Hackathon (2500+ Participating Teams)
 
-💻 Participated in
+💻 **Hackathons & Events**
 
 - CodeCrafters 2.0
 - Mumbai Hacks
 - Quasor 2.0
 - Hack4 Innovations
+- Loop Hackathon
 
 ---
 
-# 📫 Connect With Me
+# 📚 Currently Exploring
 
-<p align="left">
+- Spring Security
+- JWT Authentication
+- RESTful API Design
+- Docker & Containerization
+- Microservices Architecture
+- System Design Fundamentals
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="mailto:sahiljagadale198@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/sahiljagadale69">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -175,8 +193,8 @@ AI-powered Smart Agriculture Assistant providing crop disease detection and inte
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat." ⭐
+### 💡 "Code. Learn. Build. Repeat."
 
-Thanks for visiting my profile!
+⭐ If you like my work, consider following my profile and checking out my repositories!
 
 </div>
