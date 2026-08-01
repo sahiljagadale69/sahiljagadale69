@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Sahil Jagadale Banner" width="100%">
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Sahil Jagadale
